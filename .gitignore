@@ -1,0 +1,11 @@
+# ignore everything by default
+*
+
+# allow repo metadata
+!.gitignore
+
+# allow required files
+!main.py
+!REPORT.md
+!My_Project/
+!My_Project/main.c
