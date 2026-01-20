@@ -7,5 +7,5 @@ Project source code for the microprocessor final project.
 - `My_Project/main.c` – MCU firmware source
 - `REPORT.md` – Project report (markdown)
 
-## Notes
+## Notes  
 Binary assets such as videos, model weights, and PDFs are excluded from Git.
